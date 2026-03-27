@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pg8000
+pydantic
+pydantic-settings
+redis
+scikit-learn
+pandas
+numpy
+shap
+openai
+websockets
+python-dotenv
+python-multipart
